@@ -20,12 +20,12 @@
             <v-slide-group v-model="model" active-class="success" show-arrows>
               <!-- each v-slide-item represents a card, therefore a podcast -->
               <v-slide-item v-for="(pod, i) in item.podcasts" :key="i">
-                <!-- <Podcast
+                <Podcast
                   v-bind:title="pod.title"
                   v-bind:name="pod.name"
                   v-bind:jobTitle="pod.jobTitle"
                   v-bind:duration="pod.duration"
-                /> -->
+                />
               </v-slide-item>
             </v-slide-group>
           </v-sheet>
@@ -43,11 +43,11 @@
 
 <script>
 // import components
-// import Podcast from "./Podcast";
+import Podcast from "./Podcast";
 
 export default {
   components: {
-    // Podcast,
+    Podcast,
   },
   props: {
     tab: null,

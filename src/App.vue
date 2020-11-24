@@ -1,5 +1,5 @@
 <template>
-  <v-app title="Dan">
+  <v-app>
     <v-main>
       <div class="background-paper pa-9">
         <Header />
