@@ -9,8 +9,18 @@ Application developed with the purpose of performing the Valtech's technical int
 To run this application on your local environment, please run the following commands on your terminal:
 
 ```
-git clone
+git clone https://github.com/marcelodecastro/valtech-podcasts-vue.git
+cd valtech-podcasts-vue.git
+yarn --to install dependencies
 ```
+
+Once the app's dependencies have been installed, then start the local server by running the command:
+
+```
+yarn serve
+```
+
+The app is then running at: http://localhost:8080
 
 ## Author
 
