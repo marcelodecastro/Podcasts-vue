@@ -19,12 +19,12 @@
   position: relative;
 }
 .app-title {
-  margin-left: 16%;
-  opacity: 70%;
+  margin-left: 26%;
+  color: #f5f0f0e0;
 }
 .app-subtitle {
   margin-top: -20px;
-  margin-left: 14%;
+  margin-left: 24%;
 }
 .circle {
   background: #5cd0ff;
