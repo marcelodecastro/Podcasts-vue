@@ -1,0 +1,238 @@
+[
+    {
+        "category": "New",
+        "podcasts": [
+            {
+                "title": "Data Structures",
+                "name": "Jacqueline Cardozo",
+                "jobTitle": "Front-end Dev Leader",
+                "duration": "45 min"
+            },
+            {
+                "title": "Tech to watch in 2020",
+                "name": "João Olivio",
+                "jobTitle": "Front-end Dev Leader",
+                "duration": "1h 15 min"
+            },
+            {
+                "title": "How to get better at problem solving",
+                "name": "Derrick Pierce",
+                "jobTitle": "Front-end Dev Leader",
+                "duration": "2h 35 min"
+            },
+            {
+                "title": "Data Structures",
+                "name": "Jacqueline Cardozo",
+                "jobTitle": "Front-end Dev Leader",
+                "duration": "45 min"
+            },
+            {
+                "title": "Tech to watch in 2020",
+                "name": "João Olivio",
+                "jobTitle": "Front-end Dev Leader",
+                "duration": "1h 15 min"
+            },
+            {
+                "title": "How to get better at problem solving",
+                "name": "Derrick Pierce",
+                "jobTitle": "Front-end Dev Leader",
+                "duration": "2h 35 min"
+            },
+            {
+                "title": "Data Structures",
+                "name": "Jacqueline Cardozo",
+                "jobTitle": "Front-end Dev Leader",
+                "duration": "45 min"
+            },
+            {
+                "title": "Tech to watch in 2020",
+                "name": "João Olivio",
+                "jobTitle": "Front-end Dev Leader",
+                "duration": "1h 15 min"
+            },
+            {
+                "title": "How to get better at problem solving",
+                "name": "Derrick Pierce",
+                "jobTitle": "Front-end Dev Leader",
+                "duration": "2h 35 min"
+            }
+        ]
+    },
+    {
+        "category": "Development",
+        "podcasts": [
+            {
+                "title": "Data Structures",
+                "name": "Jacqueline Cardozo",
+                "jobTitle": "Front-end Dev Leader",
+                "duration": "45 min"
+            },
+            {
+                "title": "Tech to watch in 2020",
+                "name": "João Olivio",
+                "jobTitle": "Front-end Dev Leader",
+                "duration": "1h 15 min"
+            },
+            {
+                "title": "How to get better at problem solving",
+                "name": "Derrick Pierce",
+                "jobTitle": "Front-end Dev Leader",
+                "duration": "2h 35 min"
+            },
+            {
+                "title": "Data Structures",
+                "name": "Jacqueline Cardozo",
+                "jobTitle": "Front-end Dev Leader",
+                "duration": "45 min"
+            },
+            {
+                "title": "Tech to watch in 2020",
+                "name": "João Olivio",
+                "jobTitle": "Front-end Dev Leader",
+                "duration": "1h 15 min"
+            },
+            {
+                "title": "How to get better at problem solving",
+                "name": "Derrick Pierce",
+                "jobTitle": "Front-end Dev Leader",
+                "duration": "2h 35 min"
+            },
+            {
+                "title": "Data Structures",
+                "name": "Jacqueline Cardozo",
+                "jobTitle": "Front-end Dev Leader",
+                "duration": "45 min"
+            },
+            {
+                "title": "Tech to watch in 2020",
+                "name": "João Olivio",
+                "jobTitle": "Front-end Dev Leader",
+                "duration": "1h 15 min"
+            },
+            {
+                "title": "How to get better at problem solving",
+                "name": "Derrick Pierce",
+                "jobTitle": "Front-end Dev Leader",
+                "duration": "2h 35 min"
+            }
+        ]
+    },
+    {
+        "category": "Design",
+        "podcasts": [
+            {
+                "title": "Data Structures",
+                "name": "Jacqueline Cardozo",
+                "jobTitle": "Front-end Dev Leader",
+                "duration": "45 min"
+            },
+            {
+                "title": "Tech to watch in 2020",
+                "name": "João Olivio",
+                "jobTitle": "Front-end Dev Leader",
+                "duration": "1h 15 min"
+            },
+            {
+                "title": "How to get better at problem solving",
+                "name": "Derrick Pierce",
+                "jobTitle": "Front-end Dev Leader",
+                "duration": "2h 35 min"
+            },
+            {
+                "title": "Data Structures",
+                "name": "Jacqueline Cardozo",
+                "jobTitle": "Front-end Dev Leader",
+                "duration": "45 min"
+            },
+            {
+                "title": "Tech to watch in 2020",
+                "name": "João Olivio",
+                "jobTitle": "Front-end Dev Leader",
+                "duration": "1h 15 min"
+            },
+            {
+                "title": "How to get better at problem solving",
+                "name": "Derrick Pierce",
+                "jobTitle": "Front-end Dev Leader",
+                "duration": "2h 35 min"
+            },
+            {
+                "title": "Data Structures",
+                "name": "Jacqueline Cardozo",
+                "jobTitle": "Front-end Dev Leader",
+                "duration": "45 min"
+            },
+            {
+                "title": "Tech to watch in 2020",
+                "name": "João Olivio",
+                "jobTitle": "Front-end Dev Leader",
+                "duration": "1h 15 min"
+            },
+            {
+                "title": "How to get better at problem solving",
+                "name": "Derrick Pierce",
+                "jobTitle": "Front-end Dev Leader",
+                "duration": "2h 35 min"
+            }
+        ]
+    },
+    {
+        "category": "Project Management",
+        "podcasts": [
+            {
+                "title": "Data Structures",
+                "name": "Jacqueline Cardozo",
+                "jobTitle": "Front-end Dev Leader",
+                "duration": "45 min"
+            },
+            {
+                "title": "Tech to watch in 2020",
+                "name": "João Olivio",
+                "jobTitle": "Front-end Dev Leader",
+                "duration": "1h 15 min"
+            },
+            {
+                "title": "How to get better at problem solving",
+                "name": "Derrick Pierce",
+                "jobTitle": "Front-end Dev Leader",
+                "duration": "2h 35 min"
+            },
+            {
+                "title": "Data Structures",
+                "name": "Jacqueline Cardozo",
+                "jobTitle": "Front-end Dev Leader",
+                "duration": "45 min"
+            },
+            {
+                "title": "Tech to watch in 2020",
+                "name": "João Olivio",
+                "jobTitle": "Front-end Dev Leader",
+                "duration": "1h 15 min"
+            },
+            {
+                "title": "How to get better at problem solving",
+                "name": "Derrick Pierce",
+                "jobTitle": "Front-end Dev Leader",
+                "duration": "2h 35 min"
+            },
+            {
+                "title": "Data Structures",
+                "name": "Jacqueline Cardozo",
+                "jobTitle": "Front-end Dev Leader",
+                "duration": "45 min"
+            },
+            {
+                "title": "Tech to watch in 2020",
+                "name": "João Olivio",
+                "jobTitle": "Front-end Dev Leader",
+                "duration": "1h 15 min"
+            },
+            {
+                "title": "How to get better at problem solving",
+                "name": "Derrick Pierce",
+                "jobTitle": "Front-end Dev Leader",
+                "duration": "2h 35 min"
+            }
+        ]
+    }
+]

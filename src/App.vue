@@ -1,28 +1,39 @@
 <template>
-  <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
-  </div>
+  <v-app title="Dan">
+    <v-main>
+      <div class="background-paper pa-9">
+        <Header />
+        <Navigation v-bind:podcasts="data" />
+      </div>
+    </v-main>
+  </v-app>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+// import components
+import Header from "./components/Header";
+import Navigation from "./components/Navigation";
+
+// import data
+import podcasts from "./data/podcasts.json";
 
 export default {
-  name: 'App',
+  name: "App",
+
   components: {
-    HelloWorld
-  }
-}
+    Header,
+    Navigation,
+  },
+
+  data: () => ({
+    data: podcasts,
+  }),
+};
 </script>
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+.background-paper {
+  background-color: #fefefe;
+  min-height: 100%;
 }
 </style>

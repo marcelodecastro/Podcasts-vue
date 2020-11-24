@@ -1,24 +1,21 @@
-# valtech-vue
+# valtech\_ | Podcasts by Marcelo de Castro
 
-## Project setup
-```
-yarn install
-```
+## Introduction
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+Application developed with the purpose of performing the Valtech's technical interview test.
 
-### Compiles and minifies for production
+## Environment Setup
+
+To run this application on your local environment, please run the following commands on your terminal:
+
 ```
-yarn build
+git clone
 ```
 
-### Lints and fixes files
-```
-yarn lint
-```
+## Author
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+> Marcelo de Castro
+
+## Versions
+
+> 1.00: Initial Release
