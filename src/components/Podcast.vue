@@ -1,7 +1,6 @@
 <template>
   <v-hover v-slot="{ hover }" close-delay="100">
     <v-card
-      :loading="loading"
       :elevation="hover ? 15 : 2"
       :class="{ 'on-hover': hover }"
       class="card ma-4"
@@ -9,14 +8,14 @@
       max-height="300"
     >
       <v-card-title
-        class="headline font-weight-light text-uppercase text-primary"
+        class="headline font-weight-light text-uppercase text--primary"
         >{{ title }}</v-card-title
       >
       <v-card-text>
-        <v-row align="center" class="mx-0">
-          <v-col class="text-primary font-weight-bold">{{ name }}</v-col>
+        <v-row align="center">
+          <v-col class="text--primary font-weight-bold">{{ name }}</v-col>
         </v-row>
-        <v-row align="center" class="mx-0">
+        <v-row align="center">
           <v-col class="text--secondary">
             {{ jobTitle }}
           </v-col>
@@ -50,7 +49,7 @@ export default {
     title: String,
     name: String,
     jobTitle: String,
-    duration: Number,
+    duration: String,
   },
 };
 </script>

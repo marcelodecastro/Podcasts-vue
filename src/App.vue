@@ -1,7 +1,7 @@
 <template>
   <v-app>
     <v-main>
-      <div class="background-paper pa-9">
+      <div class="background-paper">
         <Header />
         <Navigation v-bind:podcasts="data" />
       </div>
@@ -35,5 +35,8 @@ export default {
 .background-paper {
   background-color: #fefefe;
   min-height: 100%;
+  max-width: 70%;
+  margin: 0 auto;
+  padding-top: 50px;
 }
 </style>

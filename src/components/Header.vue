@@ -1,10 +1,8 @@
 <template>
   <v-container>
-    <div class="circle d-none d-lg-flex d-xl-none" />
+    <div class="circle d-none d-lg-block" />
     <div class="app-div">
-      <div
-        class="app-title text-lg-h1 text-md-h2 text-sm-h3 font-weight-bold text--disabled"
-      >
+      <div class="app-title text-lg-h1 text-md-h2 text-sm-h3 font-weight-bold">
         Episodes
       </div>
       <div
@@ -21,12 +19,12 @@
   position: relative;
 }
 .app-title {
-  margin-left: 30%;
-  opacity: 45%;
+  margin-left: 16%;
+  opacity: 29%;
 }
 .app-subtitle {
   margin-top: -20px;
-  margin-left: 25%;
+  margin-left: 14%;
 }
 .circle {
   background: #5cd0ff;
@@ -34,5 +32,6 @@
   width: 350px;
   height: 350px;
   position: absolute;
+  overflow: visible;
 }
 </style>

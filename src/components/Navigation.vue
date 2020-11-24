@@ -12,11 +12,15 @@
         {{ item.category }}
       </v-tab>
     </v-tabs>
-    <v-tabs-items v-model="tab" background-color="transparent">
+    <v-tabs-items v-model="tab">
       <v-tab-item v-for="(item, i) in podcasts" :key="i">
         <div>
           <!-- by using the v-sheet, the list of podcasts can be viewed by horizontally scrolling -->
-          <v-sheet class="d-flex d-inline-flex mb-6" height="400px">
+          <v-sheet
+            class="d-flex d-inline-flex mb-6"
+            height="400px"
+            width="100%"
+          >
             <v-slide-group v-model="model" active-class="success" show-arrows>
               <!-- each v-slide-item represents a card, therefore a podcast -->
               <v-slide-item v-for="(pod, i) in item.podcasts" :key="i">
@@ -51,6 +55,7 @@ export default {
   },
   props: {
     tab: null,
+    model: null,
     podcasts: Array,
   },
 };
