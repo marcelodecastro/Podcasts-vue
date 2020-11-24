@@ -20,7 +20,7 @@
 }
 .app-title {
   margin-left: 16%;
-  opacity: 29%;
+  opacity: 70%;
 }
 .app-subtitle {
   margin-top: -20px;
