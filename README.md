@@ -2,15 +2,15 @@ Podcasts by Marcelo de Castro
 
 ## Introduction
 
-Application developed with the purpose of performing the Valtech's technical interview test.
+Application developed with the purpose of performing technical interview test.
 
 ## Environment Setup
 
 To run this application on your local environment, please run the following commands on your terminal:
 
 ```
-git clone https://github.com/marcelodecastro/valtech-podcasts-vue.git
-cd valtech-podcasts-vue.git
+git clone https://github.com/marcelodecastro/podcasts-vue.git
+cd podcasts-vue.git
 yarn --to install dependencies
 ```
 
