@@ -1,4 +1,4 @@
-# valtech\_ | Podcasts by Marcelo de Castro
+Podcasts by Marcelo de Castro
 
 ## Introduction
 
